@@ -8,25 +8,25 @@
 2.大寫，本方案另後加dx輸入供選擇
 3.聲調，建羅有七個聲調，本方案採用通用的1~8的通用順序，請注意，這個通用的調序與傳統的八音調序不同。
 ### 模糊音
-按今音和一些打字習慣設置了一些模糊音，如
-e̤ng：除了輸入eeng外，oeng、oeyng、oevng亦可
-e̤ṳ：除了輸入eeuu外，oe、oey、oe亦可
-ṳing：除了輸入uuing外，ving、ying亦可
-io̤：輸入ioo、io皆可
-ṳ：除了輸入uu外，v、y亦可
-a̤：輸入aa/ee皆可
-uó̤ng：輸入uoong/uong皆可
-ṳ：除了輸入uue外，ve、ye亦可
-e：輸入ei亦可
-uoi：輸入ue亦可
-eng：輸入eing皆可
-iau：輸入iao亦可
-au：輸入ao亦可
-u：輸入w亦可
-ci：輸ji、 zi亦可
-chi：輸入qi亦可
-si：輸入xi亦可
-ng：可輸入f
+按今音和一些打字習慣設置了一些模糊音，如：
+-e̤ng：除了輸入eeng外，oeng、oeyng、oevng亦可
+-e̤ṳ：除了輸入eeuu外，oe、oey、oe亦可
+-ṳing：除了輸入uuing外，ving、ying亦可
+-io̤：輸入ioo、io皆可
+-ṳ：除了輸入uu外，v、y亦可
+-a̤：輸入aa/ee皆可
+-uó̤ng：輸入uoong/uong皆可
+-ṳ：除了輸入uue外，ve、ye亦可
+-e：輸入ei亦可
+-uoi：輸入ue亦可
+-eng：輸入eing皆可
+-iau：輸入iao亦可
+-au：輸入ao亦可
+-u：輸入w亦可
+-ci：輸ji、 zi亦可
+-chi：輸入qi亦可
+-si：輸入xi亦可
+-ng：可輸入f
 **安裝方法見RIME官網**
 
 ## 閩北語（建甌）輸入法（初初初稿）
