@@ -10,7 +10,7 @@
 ### 模糊音
 按今音和一些打字習慣設置了一些模糊音，如：
 - e̤ng：除了輸入eeng外，oeng、oeyng、oevng亦可
-- e̤ṳ：除了輸入eeuu外，oe、oey、oe亦可
+- e̤ṳ：除了輸入eeuu外，oe、oey亦可
 - ṳing：除了輸入uuing外，ving、ying亦可
 - io̤：輸入ioo、io皆可
 - ṳ：除了輸入uu外，v、y亦可
